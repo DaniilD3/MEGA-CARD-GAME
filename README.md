@@ -1,1 +1,1 @@
-DaniilD3.MEGA-CARD-GAME.i
+DaniilD3.MEGA-CARD-GAME.io
