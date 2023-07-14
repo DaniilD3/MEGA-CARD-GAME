@@ -15,6 +15,7 @@ header {
 
 body {
 	background-image: url(img/865178.jpg);
+	background-repeat: no-repeat;
 }
 
 main {
