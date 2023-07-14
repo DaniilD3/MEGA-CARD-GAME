@@ -1,5 +1,5 @@
 const cards=[
-	"./img/BALL.jpg",
+	"./img/ball.jpg",
 	"./img/beefish.jpg",
 	"./img/tropicalfish.jpg",
 	"./img/i.jpg",
